@@ -1,1 +1,1 @@
-lsprint("hello world!")
+print("hello world!")
